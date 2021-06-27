@@ -1,0 +1,27 @@
+{
+	"cSpell.words": [
+		"Vangware",
+		"Vangware's",
+		"camelcase",
+		"editorconfig",
+		"eqeqeq",
+		"eslintconfig",
+		"forcli",
+		"iife",
+		"linebreak",
+		"multiselect",
+		"plusplus",
+		"pnpm",
+		"pnpx",
+		"singleline",
+		"stylelint",
+		"stylelintrc",
+		"taskify",
+		"tslib"
+	],
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"editor.formatOnSave": true,
+	"typescript.tsdk": "./node_modules/typescript/lib"
+}
