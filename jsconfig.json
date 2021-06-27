@@ -1,0 +1,7 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"strict": true,
+		"types": ["next", "next/types/global", "next/image-types/global"]
+	}
+}
